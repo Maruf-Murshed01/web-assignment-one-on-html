@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #9ab1fb;
+}
+
+
+h1, h2{
+    text-align: center;
+    color: #6b3310;
+}
+
+nav {
+    padding: 1rem;
+    width: 90%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    background-color: #9ab1fb;
+    margin-bottom: 1rem;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #6b3310;
+    color: white;
+}
+
+.audio, .video{
+    margin: 5rem 2rem;
+}
+
+.remarks{
+    width: 90%;
+    margin: 40px auto;
+}
